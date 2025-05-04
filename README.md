@@ -1,8 +1,5 @@
 # Hi there, I'm Ayeni Eniola! 👋
 
-![Banner Image](![image](https://github.com/user-attachments/assets/6d5845ea-6e08-4a7c-ac4f-6460b772aff0)
-)
-
 ## About Me 🚀
 
 I am a learner of the **ALX Back-End Software Development Programme**, currently building my foundation in designing scalable, efficient, and maintainable systems. I’m passionate about technology and problem-solving, which has led me to pursue a career in back-end web development. I have a keen eye for detail, strong analytical thinking, and the ability to break down complex systems. My adaptability, logical reasoning, and structured approach to learning make me stand out as a fast and efficient problem-solver.
