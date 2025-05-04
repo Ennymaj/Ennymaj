@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Back-End Web Developer** on a mission to gain experience in **[Python and frameworks like Django**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Back-End Web Developer** on a mission to gain experience in **Python and frameworks like Django**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[Python, Node.js, and Express.js]**
 - 📫 How to reach me: **[ayenieniola806@gmail.com]**
