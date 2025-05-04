@@ -1,12 +1,11 @@
 # Hi there, I'm Ayeni Eniola! 👋
 
-![![IMG_0346](https://github.com/user-attachments/assets/8b49ce13-daef-4d5d-8236-4132ba36bf15)
-](![IMG_0346](https://github.com/user-attachments/assets/5e41a4e1-0836-4d20-9d8f-5d822bffd548)
+![Banner Image](![image](https://github.com/user-attachments/assets/6d5845ea-6e08-4a7c-ac4f-6460b772aff0)
 )
 
 ## About Me 🚀
 
-I'm a passionate **Back-End Web Developer** on a mission to gain experience in **Python and frameworks like Django**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I am a learner of the **ALX Back-End Software Development Programme**, currently building my foundation in designing scalable, efficient, and maintainable systems.
 
 - 🌱 Currently learning: **[Python, Node.js, and Express.js]**
 - 📫 How to reach me: **[ayenieniola806@gmail.com]**
