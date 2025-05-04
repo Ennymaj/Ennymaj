@@ -1,6 +1,7 @@
 # Hi there, I'm Ayeni Eniola! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](![Uploading IMG_0346.JPG…]()
+)
 
 ## About Me 🚀
 
