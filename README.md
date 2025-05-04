@@ -1,6 +1,7 @@
 # Hi there, I'm Ayeni Eniola! 👋
 
-<img src="https://your-image-url.com/path/to/image.jpg" width="200" alt="My profile picture"/>
+![Banner Image](![image](https://github.com/user-attachments/assets/07b59554-58e4-4a7b-b9d3-a1b87cd277ff)
+)
 
 ## About Me 🚀
 
