@@ -5,7 +5,7 @@
 
 ## About Me 🚀
 
-I am a learner of the **ALX Back-End Software Development Programme**, currently building my foundation in designing scalable, efficient, and maintainable systems. I’m passionate about technology and problem-solving, which has led me to pursue a career in back-end web development. I have a keen eye for detail, strong analytical thinking, and the ability to break down complex systems—skills. My adaptability, logical reasoning, and structured approach to learning make me stand out as a fast and efficient problem-solver.
+I am a learner of the **ALX Back-End Software Development Programme**, currently building my foundation in designing scalable, efficient, and maintainable systems. I’m passionate about technology and problem-solving, which has led me to pursue a career in back-end web development. I have a keen eye for detail, strong analytical thinking, and the ability to break down complex systems. My adaptability, logical reasoning, and structured approach to learning make me stand out as a fast and efficient problem-solver.
 
 - 🌱 Currently learning: **[Python, Node.js, and Express.js]**
 - 📫 How to reach me: **[ayenieniola806@gmail.com]**
