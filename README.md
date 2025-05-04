@@ -13,8 +13,8 @@ I'm a passionate **Back-End Web Developer** on a mission to gain experience in *
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**((https://sites.google.com/view/ayenieniola/home))
-- **[LinkedIn]**((https://www.linkedin.com/in/eniola-ayeni-b38aaa1b2/))
-- **[Twitter]**((https://x.com/becoming_Eniola))
+- **[Personal Website / Blog]**(https://sites.google.com/view/ayenieniola/home)
+- **[LinkedIn]**(https://www.linkedin.com/in/eniola-ayeni-b38aaa1b2/)
+- **[Twitter]**(https://x.com/becoming_Eniola)
 
 
